@@ -1,5 +1,1 @@
-public class A{
-public static void main(String[] abc){
-Systeom.out.println("");
-}
-}
+publis class A
